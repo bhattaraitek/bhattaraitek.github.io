@@ -9,7 +9,7 @@ profile:
   image: prof_pic_tnb.jpg
   image_circular: true # crops the image to make it circular
   more_info: >
-    <p>555 Porter Hall</p>
+    <p>Porter Hall</p>
     <p>Forbes Avenue</p>
     <p>Pittsburgh, PA, United States</p>
 
