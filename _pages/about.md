@@ -26,6 +26,6 @@ latest_posts:
   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
   limit: 3 # leave blank to include all the blog posts
 ---
-Hello world, I am Tek, a doctoral student in Civil and Environmental Engineering at CMU. Currently, I am developing a surrogate model using deep learning methods for compound flood simulation. I am also interested in using Earth observation data to monitor surface water hydrology and morphology.
+I am a doctoral student in Civil and Environmental Engineering at CMU. Currently, I am developing a surrogate model using deep learning methods for compound flood simulation. I am also interested in using Earth observation data to monitor surface water hydrology and morphology.
 
 
