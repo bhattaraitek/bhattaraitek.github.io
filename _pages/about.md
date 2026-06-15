@@ -1,6 +1,6 @@
 ---
 layout: about
-title: About
+title: about
 permalink: /
 subtitle: <a href='#'>Carnegie Mellon University</a>. Pittsburgh, United States. tbhattar at andrew dot cmu dot edu.
 
