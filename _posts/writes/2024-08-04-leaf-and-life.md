@@ -13,42 +13,47 @@ published: true
 
 .post-content {
   font-family: 'Cormorant Garamond', serif;
-  font-size: 1.15rem;
+  font-size: 1.5rem;
   line-height: 2.2;
   letter-spacing: 0.02em;
 }
+.post-content {
+  max-width: 60% !important;
+  display: block;
+  margin: 0 auto;
+}
 </style>
 
-Once the epitome of exuberance,
-Dancing with the strokes of the wind,
-Showering in the tickles of rain,
+Once the epitome of exuberance,  
+Dancing with the strokes of the wind,  
+Showering in the tickles of rain,  
 Now, it has stilled.
 
-Once a creator of a beautyscape,
-Filler of the fragrance,
-Absorber of the sun's golden rays,
-Now, a poignant shadow.
+Once a creator of a beautyscape,  
+Filler of the fragrance,  
+Absorber of the sun's golden rays,  
+Now, a poignant shadow.  
 
-Once a giver of life,
-Now severed from its own.
+Once a giver of life,  
+Now severed from its own.  
 
-Some fell from the highest boughs,
-Some from the lowest twig,
-Some couldn't withstand the wind and were dethroned,
-While others danced gracefully, sacrificing themselves for the tree's bloom.
+Some fell from the highest boughs,  
+Some from the lowest twig,  
+Some couldn't withstand the wind and were dethroned,  
+While others danced gracefully, sacrificing themselves for the tree's bloom.  
 Does it even matter?
 
-Now, all of them—
-Together,
-Munched, crunched, kneaded
-Into bits and pieces.
-The eager Earth, impatient to dissolve them,
-Unable to differentiate which once blossomed
-Or which was dethroned.
+Now, all of them—  
+Together,  
+Munched, crunched, kneaded  
+Into bits and pieces.  
+The eager Earth, impatient to dissolve them,  
+Unable to differentiate which once blossomed  
+Or which was dethroned.  
 
-If all are destined to dissolve,
-What's all the fuss about?
-I asked the tree.
+If all are destined to dissolve,  
+What's all the fuss about?  
+I asked the tree.  
 
 {% include figure.liquid 
    path="assets/img/blogs/writing/fallen-leaves.jpg" 
