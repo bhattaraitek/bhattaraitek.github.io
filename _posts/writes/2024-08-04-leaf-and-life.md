@@ -13,12 +13,12 @@ published: true
 
 .post-content {
   font-family: 'Cormorant Garamond', serif;
-  font-size: 1.5rem;
+  font-size: 1.3rem;
   line-height: 2.2;
   letter-spacing: 0.02em;
 }
 .post-content {
-  max-width: 100% !important;
+  max-width: 50% !important;
   display: block;
   margin: 0 auto;
 }
