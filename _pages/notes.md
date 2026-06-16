@@ -1,8 +1,8 @@
 ---
 layout: page
-title: digital garden
+title: notes
 nav: true
-nav_order: 5
+nav_order: 4
 permalink: /notes/
 ---
 
