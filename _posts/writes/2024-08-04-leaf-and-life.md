@@ -18,7 +18,7 @@ published: true
   letter-spacing: 0.02em;
 }
 .post-content {
-  max-width: 70% !important;
+  max-width: 100% !important;
   display: block;
   margin: 0 auto;
 }
