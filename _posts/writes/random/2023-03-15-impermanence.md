@@ -3,7 +3,7 @@ layout: post
 title: Embracing the impermanence
 date: 2023-03-15
 description: A naive mind wondering about the actions of waves at the beach.
-tags: Water Sand Life Nature
+tags: water life nature naive
 categories: random
 published: true
 ---
