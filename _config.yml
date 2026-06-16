@@ -187,6 +187,9 @@ newsletter:
 # -----------------------------------------------------------------------------
 
 collections:
+  notes:
+    output: true
+    permalink: /notes/:title
   books:
     output: true
   news:
