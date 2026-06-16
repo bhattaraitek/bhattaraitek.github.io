@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Leaf and Life
+title: The Leaf 
 date: 2024-08-04
 description: The message fallen leaves are trying to give.
 tags: poetry nature life
