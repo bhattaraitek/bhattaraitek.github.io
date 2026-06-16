@@ -56,4 +56,3 @@ the sunset, as it reminds him of the inherent beauty found within the impermanen
    caption="Source: unsplash.com" 
    class="img-fluid rounded z-depth-1" %}
 
-Photo source: unsplash.com
