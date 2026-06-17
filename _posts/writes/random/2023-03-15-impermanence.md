@@ -47,8 +47,7 @@ destined to be washed away, or what?"
 
 **Sand and water (in unison)**: "That is all we ever desire—to be a part of the memories that make life rich and meaningful. Be a part of fleeting moments. Goodbye!"
 
-All this conversation was heard by the Sun over the horizon, which was about to set. The yellowish rays summoned the boy to look at the setting sun and made him realize that even the source of 
-everything rises and sets. The boy felt that his earlier desire to leave a permanent mark was nothing short of delusion. Since that day, the boy has been in love with the beauty and serenity of 
+All this conversation was heard by the Sun over the horizon, which was about to set. The yellowish rays summoned the boy to look at the setting sun and made him realize that even the source of everything rises and sets. The boy felt that his earlier desire to leave a permanent mark was nothing short of delusion. Since that day, the boy has been in love with the beauty and serenity of 
 the sunset, as it reminds him of the inherent beauty found within the impermanence of life's experiences.
 
 {% include figure.liquid 
