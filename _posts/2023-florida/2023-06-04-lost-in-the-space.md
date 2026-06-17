@@ -30,7 +30,7 @@ We arrived at the space center a few hours later and purchased tickets. Upon pas
 During the tour, I caught sight of the world's largest single-storey vehicle assembly building from a distance. This impressive structure is where NASA assembles its rockets. 
 
 {% include figure.liquid 
-   path="assets/img/blogs/florida-2023/vehicle-assembly-c.wepb" 
+   path="assets/img/blogs/florida-2023/vehicle-assembly-c.webp" 
    caption="World largest single-storey vehicle assembly building" 
    class="img-fluid rounded z-depth-1" %}
 
@@ -43,7 +43,7 @@ Eventually, the bus dropped us off at the Apollo/Saturn V Center, where we learn
 
 The story of the Apollo missions stirred overwhelming emotions within me. I learned about the tragic loss of three astronauts during a pre-flight test for the Apollo 1 mission. Their sacrifice, alongside the dedication of countless others involved in scientific exploration, left me with a profound sense of admiration and respect. Despite facing immense challenges, Apollo 8 became the first manned spacecraft to orbit the moon. Although it didn't achieve its original goal of landing on the moon due to technical issues, the astronauts were able to capture breathtaking views of the lunar surface, including the iconic photograph known as the "Earthrise."
 {% include figure.liquid 
-   path="assets/img/blogs/florida-2023/earth-rise-c-1.webp" 
+   path="assets/img/blogs/florida-2023/earthrise-1.webp" 
    caption="" 
    class="img-fluid rounded z-depth-1" %}
 
@@ -67,11 +67,11 @@ During the exploration, we couldn't resist the temptation of pretending to be ki
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/blogs/florida-2023/me-anstronaut-outfit.webp "  
+        {% include figure.liquid path="assets/img/blogs/florida-2023/me-astronaut-outfit-1.webp "  
            title="Image 1" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/blogs/florida-2023/me-anstronaut-outfit-3.webp" 
+        {% include figure.liquid path="assets/img/blogs/florida-2023/me-astronaut-outfit-2.webp" 
            title="Image 2" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
@@ -87,6 +87,6 @@ At the end of the day, we gathered at the NASA logo as instructed by Prof. Biswa
 
 {% include figure.liquid 
    path="assets/img/blogs/florida-2023/group-pic-nasa-c.webp" 
-   caption="Group picture at NASA space center at the end of day" 
+   caption="FRM group at NASA Kennedy space center " 
    class="img-fluid rounded z-depth-1" %}
 
